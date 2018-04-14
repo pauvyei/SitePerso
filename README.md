@@ -1,6 +1,5 @@
-# PAUVY Enzo
-## Site Personnel
+## PAUVY Enzo | Site Personnel
 
-## Contact
+Contact
     06 51 85 80 80
     enzo@pauvy.com
